@@ -6,7 +6,7 @@
 
 # Some city codes to check
 
-`New York City, USA: 40.712776, -74.005974
+New York City, USA: 40.712776, -74.005974
 
 London, UK: 51.507351, -0.127758
 
@@ -16,4 +16,4 @@ Tokyo, Japan: 35.689487, 139.691711
 
 Sydney, Australia: -33.868820, 151.209290
 
-Rio de Janeiro, Brazil: -22.906847, -43.172897`
+Rio de Janeiro, Brazil: -22.906847, -43.172897
